@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.title {
+  font-size: 4.5rem;
+  font-weight: 600;
+  color: #55e6c3;
+  text-align: center;
+}
